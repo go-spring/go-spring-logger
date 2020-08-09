@@ -25,7 +25,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/go-spring/go-spring-logger"
+	"github.com/go-spring/spring-logger"
 )
 
 ///////////////////////// 模拟用户已有的日志组件 /////////////////////////

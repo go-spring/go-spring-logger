@@ -1,1 +1,1 @@
-# go-spring-logger
+# spring-logger

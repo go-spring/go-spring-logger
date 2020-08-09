@@ -1,4 +1,4 @@
-module github.com/go-spring/go-spring-logger
+module github.com/go-spring/spring-logger
 
 go 1.12
 

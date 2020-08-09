@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/go-spring/go-spring-logger"
+	"github.com/go-spring/spring-logger"
 )
 
 func TestConsole(t *testing.T) {
